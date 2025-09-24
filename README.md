@@ -19,7 +19,7 @@ You can access the workbook for this tutorial in one of two ways:
 
 ### Option 1: Using Google Colab
 
-Click [here](INSERT LINK) to access a Google Colab notebook containing the learning material. Once you have been granted access to this notebook, please save a copy of it to your drive. *Please and only modify your copy of the file.* If you modify the original file, other students will lose access to the original learning material.
+Click [here](https://colab.research.google.com/drive/1GN1j9LozyvkM2tu1ouHsoAnreMzgwZe6?usp=sharing) to access a Google Colab notebook containing the learning material. Once you have been granted access to this notebook, please save a copy of it to your drive. *PLEASE ONLY MODIFY YOUR COPY OF THE FILE.* If you modify the original file, other students will lose access to the original learning material.
 
 The Google Colab notebook works you through the supervision, leaving gaps for you to input your own code where required. Please attempt the blank sections by yourself best of your ability first. If you get stuck, another workbook complete with answers can be found below.
 
