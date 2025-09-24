@@ -53,7 +53,7 @@ If you have access to your machine's command line, miniconda and github, then yo
 - Create an environment: `>conda env create -f selwyn_computing_env.yml`
 - Activate the environment as instructed by miniconda
 - From within the `/miniconda/ directory, navigate back to the subdirectory containing the workbooks: `>cd ../notebooks/`
-- Within your `/notebook` directory, run: `>jupyter notebook` in your command line and open the url which is displayed
+- Within your `/notebooks/` directory, run: `>jupyter notebook` in your command line and open the url which is displayed
 - Open `Workbook.ipynb`
 
 </details>
