@@ -60,7 +60,7 @@ If you have access to your machine's command line, [miniconda](https://www.anaco
 
 ### Option 3: Using Binder
 
-The tutorial notebook is also available in Binder using the following[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbcxqcw2/selwyn-array-supervision.git/main?urlpath=%2Fdoc%2Ftree%2F%2Fnotebooks%2FWorkbook.ipynb).ipynb)
+The tutorial notebook is also available in Binder using the following[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbcxqcw2/selwyn-array-supervision.git/main?urlpath=%2Fdoc%2Ftree%2F%2Fnotebooks%2FWorkbook.ipynb)
 
 ### Workbook answers
 
