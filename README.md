@@ -58,6 +58,10 @@ If you have access to your machine's command line, [miniconda](https://www.anaco
 
 </details>
 
+### Option 3: Using Binder
+
+The tutorial notebook is also available through Binder using the following link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbcxqcw2/selwyn-array-supervision.git/main?urlpath=%2Fdoc%2Ftree%2F%2Fnotebooks%2FWorkbook.ipynb)
+
 ### Workbook answers
 
 <details>
@@ -66,7 +70,9 @@ If you have access to your machine's command line, [miniconda](https://www.anaco
 
 - Option 1: [Click here](https://colab.research.google.com/drive/12K9c4n49qflT2b_10_X_tbFhBzDFUMRX?usp=sharing) to access a Google Colab notebook containing the complete workbook. DO NOT MODIFY ANY OF THE CODE IN THIS WORKBOOK! It should serve as a reference for your personal workbook only. Save a copy of this worked example into your drive. Then only run the copy.
 
-- Alternatively, if you are running a local version of this tutorial, you can find a completed workbook in the `/notebooks/` directory. This completed workbook is called `Workbook_Answers.ipynb`.
+- Option 2: Alternatively, if you are running a local version of this tutorial, you can find a completed workbook in the `/notebooks/` directory. This completed workbook is called `Workbook_Answers.ipynb`.
+
+- Option 3: If you are using Binder, the completed workbook can be accessed using the following link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbcxqcw2/selwyn-array-supervision.git/main?urlpath=%2Fdoc%2Ftree%2F%2Fnotebooks%2FWorkbook_Answers.ipynb)
 
 </details>
 
