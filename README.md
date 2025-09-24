@@ -64,7 +64,7 @@ If you have access to your machine's command line, miniconda and github, then yo
 
 <summary>Accessing workbook answers</summary>
 
-- Option 1: [Click here](INSERT LINK) to access a Google Colab notebook containing the complete workbook. DO NOT MODIFY ANY OF THE CODE IN THIS WORKBOOK! It should serve as a reference for your personal workbook only. Save a copy of this worked example into your drive before you run anything.
+- Option 1: [Click here](https://colab.research.google.com/drive/12K9c4n49qflT2b_10_X_tbFhBzDFUMRX?usp=sharing) to access a Google Colab notebook containing the complete workbook. DO NOT MODIFY ANY OF THE CODE IN THIS WORKBOOK! It should serve as a reference for your personal workbook only. Save a copy of this worked example into your drive before you run anything.
 
 - Alternatively, if you are running a local version of this tutorial, you can find a completed workbook in the `/notebooks/` directory. This completed workbook is called `Workbook_Answers.ipynb`.
 
