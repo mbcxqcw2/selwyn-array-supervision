@@ -15,7 +15,7 @@ ___
 
 ## Resources
 
-You can access the workbook for this tutorial in one of two ways:
+You can access the workbook for this tutorial in one of three ways:
 
 ### Option 1: Using Google Colab
 
@@ -60,7 +60,7 @@ If you have access to your machine's command line, [miniconda](https://www.anaco
 
 ### Option 3: Using Binder
 
-The tutorial notebook is also available through Binder using the following link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbcxqcw2/selwyn-array-supervision.git/main?urlpath=%2Fdoc%2Ftree%2F%2Fnotebooks%2FWorkbook.ipynb)
+The tutorial notebook is also available in Binder using the following[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbcxqcw2/selwyn-array-supervision.git/main?urlpath=%2Fdoc%2Ftree%2F%2Fnotebooks%2FWorkbook.ipynb).ipynb)
 
 ### Workbook answers
 
