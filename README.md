@@ -48,13 +48,13 @@ If you have access to your machine's command line, [miniconda](https://www.anaco
 <summary>Steps for running a local version</summary>
 
 - Open your command line and navigate to the directory you will use as your base directory using `cd`
-- Within your base directory, git clone this repository: `>git clone https://github.com/mbcxqcw2/selwyn-array-supervision.git`
-- Within your base directory, navigate to the repository's miniconda subdirectory: `>cd /selwyn-array-supervision/miniconda/`
-- Create a [miniconda environment](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html) using: `>conda env create -f selwyn_computing_env.yml`
-- Activate the environment as instructed by minicondai
-- From within the `/miniconda/` directory, navigate back to the subdirectory containing the workbooks: `>cd ../notebooks/`
-- Within your `/notebooks/` directory, run: `>jupyter notebook` in your command line and open the url which is displayed
-- Open `Workbook.ipynb`
+- Within your base directory, git clone this repository: `> git clone https://github.com/mbcxqcw2/selwyn-array-supervision.git`
+- Within your base directory, navigate to the repository's miniconda subdirectory: `> cd /selwyn-array-supervision/miniconda/`
+- Create a [miniconda environment](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html) using: `> conda env create -f selwyn_computing_env.yml`
+- Activate the environment as instructed by miniconda in your command line
+- From within the `/miniconda/` directory, navigate back to the subdirectory containing the workbooks: `> cd ../notebooks/`
+- Within your `/notebooks/` directory, run: `> jupyter notebook` in your command line and open the url which is displayed
+- Open `Workbook.ipynb` and begin the tutorial.
 
 </details>
 
