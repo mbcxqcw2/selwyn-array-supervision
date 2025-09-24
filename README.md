@@ -13,7 +13,7 @@ During this tutorial, we will introduce the concept of Python arrays. We will le
 ___
 ___
 
-## Resources
+## The Tutorial
 
 You can access the workbook for this tutorial in one of three ways:
 
@@ -60,9 +60,11 @@ If you have access to your machine's command line, [miniconda](https://www.anaco
 
 ### Option 3: Using Binder
 
-The tutorial notebook is also available in Binder using the following[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbcxqcw2/selwyn-array-supervision.git/main?urlpath=%2Fdoc%2Ftree%2F%2Fnotebooks%2FWorkbook.ipynb)
+The tutorial notebook is also available in Binder using the following link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbcxqcw2/selwyn-array-supervision.git/main?urlpath=%2Fdoc%2Ftree%2F%2Fnotebooks%2FWorkbook.ipynb)
 
-### Workbook answers
+---
+---
+## Workbook answers
 
 <details>
 
@@ -76,6 +78,8 @@ The tutorial notebook is also available in Binder using the following[![Binder](
 
 </details>
 
+---
+---
 ## Developers
 
 - Walker, C.R.H. (University of Cambridge, Trevelyan Research Associate, Selwyn College, Cambridge)
