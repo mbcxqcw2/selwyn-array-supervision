@@ -48,7 +48,7 @@ If you have access to your machine's command line, miniconda and github, then yo
 <summary>Steps for running a local version</summary>
 
 - Open your command line and navigate to an appropriate directory using `cd`
-- Git clone this repository using `git clone link`
+- Git clone this repository using `git clone https://github.com/mbcxqcw2/selwyn-array-supervision.git`
 - Navigate to the miniconda subdirectory by running `cd /miniconda/`
 - Create an environment using `conda env create -f selwyn_computing_env.yml`
 - Activate the environment as instructed by miniconda
