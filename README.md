@@ -47,13 +47,13 @@ If you have access to your machine's command line, miniconda and github, then yo
 <details>
 <summary>Steps for running a local version</summary>
 
-- Open your command line and navigate to an appropriate directory using `cd`
-- Git clone this repository using `git clone https://github.com/mbcxqcw2/selwyn-array-supervision.git`
-- Navigate to the miniconda subdirectory by running `cd /miniconda/`
-- Create an environment using `conda env create -f selwyn_computing_env.yml`
+- Open your command line and navigate to the directory you will use as your base directory using `cd`
+- Within your base directory, git clone this repository: `>git clone https://github.com/mbcxqcw2/selwyn-array-supervision.git`
+- Within your base directory, navigate to the repository's miniconda subdirectory: `>cd /selwyn-array-supervision/miniconda/`
+- Create an environment: `>conda env create -f selwyn_computing_env.yml`
 - Activate the environment as instructed by miniconda
-- Navigate back to the subdirectory containing the workbooks using `cd ../notebooks/`
-- Run `jupyter notebook` in your command line and open the url which is displayed
+- From within the `/miniconda/ directory, navigate back to the subdirectory containing the workbooks: `>cd ../notebooks/`
+- Within your `/notebook` directory, run: `>jupyter notebook` in your command line and open the url which is displayed
 - Open `Workbook.ipynb`
 
 </details>
